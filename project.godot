@@ -11,5 +11,6 @@ config_version=5
 [application]
 
 config/name="StageVis"
+run/main_scene="uid://cm3mmod0l0b4y"
 config/features=PackedStringArray("4.4", "Forward Plus")
 config/icon="res://ui/icon.svg"
